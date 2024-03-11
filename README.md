@@ -12,3 +12,5 @@ This blog project aims to provide a clean and modern interface for blogging, lev
 ## Things Needed to Finish
 
 - **Admin Panel for Blog:** Implement an admin panel to manage blog content, users, and other administrative tasks.
+
+something
